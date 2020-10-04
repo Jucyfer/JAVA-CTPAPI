@@ -1,5 +1,5 @@
 # 一、简介
-此JAVA-CTPAPI是用swig方法在官方C++ API上编译得到，完全开源，有兴趣可以参考笔者文章[《CTP JAVA API(JCTP)编译（利用Swig封装C++动态库）windows版》](https://blog.csdn.net/pjjing/article/details/77338423)或文章[《CTP JAVA API(JCTP) 64位 2in1及CTP JAVA订阅全市场行情DEMO》](https://blog.csdn.net/pjjing/article/details/85063988)自行编译实现。此方法编译得到的API在数据结构，参数名，函数名及用法上与C++版API完全一致，可以参考官方开发文档，十分容易上手。
+此JAVA-CTPAPI是用swig方法在官方C++ API上编译得到，完全开源，有兴趣可以参考笔者文章[《CTP JAVA API(JCTP)编译（利用Swig封装C++动态库）windows版》](https://blog.csdn.net/pjjing/article/details/53186394)或文章[《CTP JAVA API(JCTP) 64位 2in1及CTP JAVA订阅全市场行情DEMO》](https://blog.csdn.net/pjjing/article/details/85063988)自行编译实现。此方法编译得到的API在数据结构，参数名，函数名及用法上与C++版API完全一致，可以参考官方开发文档，十分容易上手。
 **编译维护不易，欢迎大家star, fork鼓励。**
 
 # 二、文件清单
